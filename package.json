@@ -1,0 +1,17 @@
+{
+  "name": "CalsPokemonGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Constructors.js",
+  "scripts": {
+    "test": "mocha pokemon.spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "inquirer": "^7.0.0",
+    "mocha": "^6.2.2"
+  }
+}
